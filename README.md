@@ -10,21 +10,23 @@
     <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
     <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" />
 </div>
-
 <br>
 <br>
 <br>
-
-
-### Other software:
+### Other relevant software:
 
 <img align="left" height="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/QGIS_logo%2C_2017.svg"/>
 <img align="left" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png"/>
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg"/>
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg"/>
 
+<br>
+<br>
+<br>
 
-
+<h1>This is a h1 </h1>
+<h2>This is a h2 </h2>
+<h6>This is a h6 </h6>
          
 
           
