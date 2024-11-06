@@ -1,4 +1,4 @@
-<h1 style="background-color: white;">Welcome to my profile!</h1>
+<h1 align= "center" >Welcome to my profile!</h1>
 
 <h2>Languages and Tools</h2>
 
