@@ -1,8 +1,6 @@
 <h1 align="center"> Geospatial | Full-Stack Developer </h1>
 
-<p>I'm a passionate developer with a strong background in geography and sustainability science. Always been fascinated by technology, and constantly striving to expand my skillset and embrace new challenges. As a Geographer, my expertise is in Geographic Information Systems and data visualization techniques to create innovative solutions for environmental and societal challenges. </p>
-<br>
-
+<p>I'm a passionate developer with a strong background in geography and sustainability science. Always been fascinated by technology, and constantly striving to expand my skillset and embrace new challenges. As a Geographer, my expertise is in Geographic Information Systems and data visualization techniques to create innovative solutions for environmental and societal challenges. I'm specially excited to apply my front-end development skills to build interactive maps, dashboards, and web applications that bring geographic data to life. </p>
 
 <h2>Languages and Tools</h2>
 
