@@ -8,8 +8,8 @@
     <img align="left" width="40px" style="padding-right:5px; margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
     <img align="left" width="40px" style="padding-right:5px; margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
     <img align="left" width="40px" style="padding-right:5px; margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-    <img align="left" width="40px" style="padding-right:5px; margin:5px; color: white" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-    <img align="left" width="40px" style="padding-right:5px; margin:5px" src="https://res.cloudinary.com/dgey7r9hp/image/upload/v1730902287/express_blehha.svg" />
+    <img align="left" width="40px" style="padding-right:5px; margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+    <img align="left" width="40px" style="padding-right:5px; margin:5px;" src="https://res.cloudinary.com/dgey7r9hp/image/upload/v1730902287/express_blehha.svg" />
     <img align="left" width="40px" style="padding-right:5px; margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
     <img align="left" width="40px" style="padding-right:5px; margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-plain.svg" />
     <img align="left" width="40px" style="padding-right:5px; margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
@@ -23,14 +23,13 @@
 
 <img align="left" height="40px" style="padding-right:5px; margin:1px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/QGIS_logo%2C_2017.svg"/>
 <img align="left" width="40px" style="padding-right:5px; margin:1px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png"/>
+<img align="left" width="40px" style="padding-right:5px; margin:1px;" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/microsoft-excel-11796924-9632935.png?f=webp"/>
 <img align="left" width="40px" style="padding-right:5px; margin:1px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg"/>
+<img align="left" width="40px" style="padding-right:5px; margin:1px;" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Adobe_Photoshop_Lightroom_v4.0.png"/>
 <img align="left" width="40px" style="padding-right:5px; margin:1px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg"/>
 
+
 <br>
 <br>
 <br>
 
-          
-
-          
-          
