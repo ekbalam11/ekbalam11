@@ -12,9 +12,12 @@
 
 ### Other software:
 
+<img align="left" height="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/QGIS_logo%2C_2017.svg"/>
+<img align="left" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png"/>
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg"/>
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg"/>
-<img align="left" height="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/QGIS_logo%2C_2017.svg"/>
+
+
 
          
 
