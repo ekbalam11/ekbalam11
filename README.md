@@ -1,4 +1,4 @@
-<h1>Welcome to my profile!</h1>
+<h1 style="background-color: white;">Welcome to my profile!</h1>
 
 <h2>Languages and Tools</h2>
 
@@ -25,11 +25,6 @@
 <br>
 <br>
 <br>
-
-<h1>This is a h1 </h1>
-<h2>This is a h2 </h2>
-<h6>This is a h6 </h6>
-         
 
           
 
