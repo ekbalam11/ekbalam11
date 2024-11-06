@@ -1,4 +1,4 @@
-<h2 align="center"> Geospatial | Full-Stack Developer </h2>
+<h1 align="center"> Geospatial | Full-Stack Developer </h1>
 
 <p>I'm a passionate developer with a strong background in geography and sustainability science. Always been fascinated by technology, and constantly striving to expand my skillset and embrace new challenges. As a Geographer, my expertise is in Geographic Information Systems and data visualization techniques to create innovative solutions for environmental and societal challenges. </p>
 
