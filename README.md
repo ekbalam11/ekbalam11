@@ -22,6 +22,14 @@
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg"/>
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg"/>
 
+<br>
+<br>
+<br>
+
+<h1>This is a h1 </h1>
+<h2>This is a h2 </h2>
+<h6>This is a h6 </h6>
+         
 
           
 
