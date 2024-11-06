@@ -14,7 +14,7 @@
 
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg"/>
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg"/>
-<img align="left" width="40px" style="padding-right:10px;" src="https://www.clipartmax.com/png/small/87-874908_qgis-est-un-sig-bureautique-open-source-et-gratuit-pycharm-png.png"/>
+<img align="left" width="40px" style="padding-right:10px;" src="https://www.clipartmax.com/png/small/178-1789878_latest-news-qgis-logo.png"/>
 
          
 
