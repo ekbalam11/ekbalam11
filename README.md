@@ -46,9 +46,4 @@ ___________________________
 
 ___________________________
 <br>
-<br>
-<br>
-<br>
 
-
-[![Balam's GitHub | Stats](https://stats.quira.sh/Balam/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=Balam)
