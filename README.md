@@ -5,6 +5,7 @@
 <h2>Languages and Tools</h2>
 
 <div>
+    <img align="left" width="40px" style="padding-right:5px; margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" />
     <img align="left" width="40px" style="padding-right:5px; margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
     <img align="left" width="40px" style="padding-right:5px; margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
     <img align="left" width="40px" style="padding-right:5px; margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
