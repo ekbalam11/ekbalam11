@@ -11,13 +11,13 @@
     <img align="left" width="40px" style="padding-right:5px; margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
     <img align="left" width="40px" style="padding-right:5px; margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
     <img align="left" width="40px" style="padding-right:5px; margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-    <img align="left" width="40px" style="padding-right:5px; margin:5px;" src="https://res.cloudinary.com/dgey7r9hp/image/upload/v1730902287/express_blehha.svg" />
     <img align="left" width="40px" style="padding-right:5px; margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+    <img align="left" width="40px" style="padding-right:5px; margin:1px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
     <img align="left" width="40px" style="padding-right:5px; margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-plain.svg" />
+    <img align="left" width="40px" style="padding-right:5px; margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
     <img align="left" width="40px" style="padding-right:5px; margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
     <img align="left" width="40px" style="padding-right:5px; margin:1px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" />
     <img align="left" width="40px" style="padding-right:5px; margin:1px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
-    <img align="left" width="40px" style="padding-right:5px; margin:1px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
               
 </div>
 <br>         
