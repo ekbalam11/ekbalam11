@@ -5,7 +5,7 @@
 <h2>Languages and Tools</h2>
 
 <div>
-    <img align="left" width="40px" style="padding-right:5px; margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" />
+    <img align="left" width="40px" style="padding-right:5px; margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
     <img align="left" width="40px" style="padding-right:5px; margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
     <img align="left" width="40px" style="padding-right:5px; margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
     <img align="left" width="40px" style="padding-right:5px; margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
@@ -16,7 +16,9 @@
     <img align="left" width="40px" style="padding-right:5px; margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-plain.svg" />
     <img align="left" width="40px" style="padding-right:5px; margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
     <img align="left" width="40px" style="padding-right:5px; margin:1px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" />
-     <img align="left" width="40px" style="padding-right:5px; margin:1px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
+    <img align="left" width="40px" style="padding-right:5px; margin:1px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
+    <img align="left" width="40px" style="padding-right:5px; margin:1px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+              
 </div>
 <br>         
 <br>
