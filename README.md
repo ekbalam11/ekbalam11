@@ -26,7 +26,7 @@
 <br>
 <br>
 <br>
-<h2>Other relevant software</h2>
+<h2>Relevant software</h2>
 
 <img align="left" height="40px" style="padding-right:5px; margin:1px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/QGIS_logo%2C_2017.svg"/>
 <img align="left" width="40px" style="padding-right:5px; margin:1px;" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/microsoft-excel-11796924-9632935.png?f=webp"/>
