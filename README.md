@@ -1,6 +1,8 @@
-<h1 align="center"> Geospatial | Full-Stack Developer </h1>
+<h1 align="center"> Geospatial Data Scientist & Developer | GIS, Python & Web Mapping </h1>
 
-<p>I'm a passionate developer with a strong background in geography and sustainability science. Always been fascinated by technology, and constantly striving to expand my skillset and embrace new challenges. As a Geographer, my expertise is in Geographic Information Systems and data visualization techniques to create innovative solutions for environmental and societal challenges. I'm specially excited to apply my front-end development skills to build interactive maps, dashboards, and web applications that bring geographic data to life. </p>
+<p>
+I am a passionate Geospatial Data Scientist and Developer with a background in Geography and Sustainability Science. I have always been fascinated by technology and by its potential to address environmental and societal challenges. Therefore, I turn geographic and environmental data into analyses, maps, and digital tools. I work across GIS, remote sensing, spatial databases, and web development to explore complex territorial questions and communicate results clearly. Using Python, QGIS, PostGIS, JavaScript, and modern web technologies, I automate geospatial workflows, build interactive maps and dashboards, and develop data-driven applications for environmental, urban, and sustainability contexts.
+</p>
 
 <h2>Languages and Tools</h2>
 
